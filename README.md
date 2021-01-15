@@ -1,6 +1,4 @@
 # Egypt-Latest-News
-
-## Grading System App
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -11,8 +9,6 @@ This project is a simple fetching-data-app from **[News Api](https://newsapi.org
 ## Technologies
 Project is created with
 * Nodejs
-* Express
-* handerlbars
 	
 ## Setup
 A. To run this project, install it locally using npm:
@@ -25,6 +21,7 @@ B. start up the server by using :
 ```
 $ nodemon src\app.js
 ```
+
 C. then you'll get the latest News locally at port 3000 by this url **[Egypt-Latest-News](http://localhost:3000/)**
 
 ## Developer 
